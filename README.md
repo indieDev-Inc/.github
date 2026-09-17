@@ -1,0 +1,2 @@
+# .github
+Just bored? yeah.
